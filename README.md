@@ -160,11 +160,6 @@ A: The app will notify you if a new version is available. You can always downloa
 
 ---
 
-## License
-
-© 2025 bironil. All rights reserved.
-
----
 
 Enjoy your dynamic wallpapers! If you like the app, please star the repo or share your setup!
 
