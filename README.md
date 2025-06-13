@@ -1,6 +1,24 @@
 # Wallpaper-kun
 
+![Release](https://img.shields.io/github/v/release/bironil/Wallpaper-kun)
+![Issues](https://img.shields.io/github/issues/bironil/Wallpaper-kun)
+![License](https://img.shields.io/github/license/bironil/Wallpaper-kun)
+
 A powerful Windows application for creating dynamic, multi-monitor wallpaper collages from Reddit and Zerochan API sources. Features smart automation, real-time previews, and robust file management—all with a beautiful, modern UI.
+
+---
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Directory Structure](#directory-structure)
+- [Usage](#usage)
+- [Troubleshooting](#troubleshooting)
+- [System Requirements](#system-requirements)
+- [FAQ](#faq)
+- [Credits](#credits)
+- [License](#license)
 
 ---
 
@@ -9,20 +27,16 @@ A powerful Windows application for creating dynamic, multi-monitor wallpaper col
 - **Multi-Source Image Fetching**
   - Download wallpapers from Reddit subreddits and Zerochan API endpoints.
   - Smart daily fetch system with background downloads and progress tracking.
-
 - **Multi-Monitor Support**
   - Independent layouts per monitor.
   - Automatic monitor detection and orientation-aware layouts.
-
 - **Collage & Layout System**
   - Portrait and landscape layouts (single, grid, strips, and more).
   - Intelligent image fitting and aspect ratio preservation.
-
 - **Automation**
   - Auto-fetch new images daily or on demand.
   - Auto-change wallpapers at custom intervals (seconds, minutes, hours).
   - Smart image rotation and persistent settings.
-
 - **Modern UI**
   - Real-time preview of collages.
   - Easy-to-use controls for layout, mode, and monitor selection.
@@ -32,9 +46,9 @@ A powerful Windows application for creating dynamic, multi-monitor wallpaper col
 
 ## Installation
 
-1. **Download** the latest release from the [Releases](https://github.com/yourusername/Wallpaper-kun/releases) page.
+1. **Download** the latest release from the [Releases](https://github.com/bironil/Wallpaper-kun/releases) page.
 2. **Extract** the files to a folder of your choice.
-3. **(Optional)** Move the app to `C:\Program Files\Wallpaper-kun` for system-wide use.
+3. **Move** the app to `C:\Program Files\Wallpaper-kun` for system-wide use (optional).
 4. **Run** `Wallpaper-kun.exe`.
 
 > **Note:** On first run, the app will create its data folders in  
@@ -62,7 +76,7 @@ AppData/Local/Wallpaper-kun/
 
 1. **Add Sources:**  
    - Enter Reddit feeds or Zerochan API endpoints in the app `reddit_urls.txt` / `api_urls.txt`.
-   - You can also use the official website to easily generate Reddit feeds or Zerochan API links: [https://assyrian.pro/Wallpaper-kun](https://assyrian.pro/Wallpaper-kun)
+   - You can also use the official website to easily generate Reddit feeds or Zerochan API links: [Wallpaper-kun Website][website]
 2. **Enable Auto-Fetch:**  
    - Toggle auto-fetch for daily updates.
 3. **Select Layouts:**  
@@ -79,16 +93,15 @@ AppData/Local/Wallpaper-kun/
 - Preview updates automatically.
 - Wallpapers change based on your timer or manual action.
 
-> **Warning:**
+> ⚠️ **Warning:**  
 > If auto-fetch is enabled, the app will download and replace all old images in the `Images` folder. Please back up any images you want to keep before enabling auto-fetch.
 
 ---
 
 ## Updates & Future Versions
 
-For the latest updates, new features, and future releases, visit the official website:
-
-[https://assyrian.pro/Wallpaper-kun](https://assyrian.pro/Wallpaper-kun)
+For the latest updates, new features, and future releases, visit the official website:  
+[Wallpaper-kun Website][website]
 
 ---
 
@@ -113,7 +126,6 @@ For the latest updates, new features, and future releases, visit the official we
 - Use longer timer intervals for better performance.
 - Enable background fetch for daily updates.
 
-
 ---
 
 ## System Requirements
@@ -137,7 +149,7 @@ A: Yes! Place your images in the `Images` folder or use the UI.
 A: Yes. All downloads and settings are stored locally.
 
 **Q: How do I update?**  
-A: The app will notify you if a new version is available. You can always download the latest version for free from [https://assyrian.pro/Wallpaper-kun](https://assyrian.pro/Wallpaper-kun). Your settings and images will be preserved.
+A: The app will notify you if a new version is available. You can always download the latest version for free from [Wallpaper-kun Website][website]. Your settings and images will be preserved.
 
 ---
 
@@ -148,4 +160,12 @@ A: The app will notify you if a new version is available. You can always downloa
 
 ---
 
+## License
+
+© 2025 bironil. All rights reserved.
+
+---
+
 Enjoy your dynamic wallpapers! If you like the app, please star the repo or share your setup!
+
+[website]: https://assyrian.pro/Wallpaper-kun
