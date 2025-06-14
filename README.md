@@ -32,8 +32,8 @@ Below are some screenshots of Wallpaper-kun in action:
 - [Troubleshooting](#troubleshooting)
 - [System Requirements](#system-requirements)
 - [FAQ](#faq)
+- [Contributing & Support](#contributing--support)
 - [Credits](#credits)
-- [License](#license)
 
 ---
 
@@ -166,7 +166,16 @@ A: Yes. All downloads and settings are stored locally.
 **Q: How do I update?**  
 A: The app will notify you if a new version is available. You can always download the latest version for free from [Wallpaper-kun Website][website]. Your settings and images will be preserved.
 
+
 ---
+
+## Contributing & Support
+
+- To report bugs, please use the [Bug Report template](https://github.com/bironil/Wallpaper-kun/issues/new?template=bug_report.md).
+- To request features, use the [Feature Request template](https://github.com/bironil/Wallpaper-kun/issues/new?template=feature_request.md).
+
+---
+
 
 ## Credits
 
