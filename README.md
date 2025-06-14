@@ -1,10 +1,25 @@
 # Wallpaper-kun
 
-![Release](https://img.shields.io/github/v/release/bironil/Wallpaper-kun)
-![Issues](https://img.shields.io/github/issues/bironil/Wallpaper-kun)
-![License](https://img.shields.io/github/license/bironil/Wallpaper-kun)
+<p align="center">
+  <img src="assets/logo.png" alt="Wallpaper-kun Logo" width="180"/>
+</p>
 
 A powerful Windows application for creating dynamic, multi-monitor wallpaper collages from Reddit and Zerochan API sources. Features smart automation, real-time previews, and robust file management—all with a beautiful, modern UI.
+
+---
+
+## Screenshots
+
+Below are some screenshots of Wallpaper-kun in action:
+
+<p align="center">
+  <img src="assets/screenshot_1.png" alt="Screenshot 1" width="400"/>
+  <img src="assets/screenshot_2.png" alt="Screenshot 2" width="400"/>
+  <img src="assets/screenshot_3.png" alt="Screenshot 3" width="400"/>
+  <img src="assets/screenshot_4.png" alt="Screenshot 4" width="400"/>
+  <img src="assets/screenshot_5.png" alt="Screenshot 5" width="400"/>
+  <img src="assets/screenshot_6.png" alt="Screenshot 6" width="400"/>
+</p>
 
 ---
 
