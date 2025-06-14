@@ -68,6 +68,7 @@ Below are some screenshots of Wallpaper-kun in action:
 
 > **Note:** On first run, the app will create its data folders in  
 > `C:\Users\<YourUser>\AppData\Local\Wallpaper-kun\`
+> - You may see a Windows warning that the app is unrecognized or "unsecure." This is because I did not pay $500+ for a Microsoft code signing certificate😆. The app is safe to use—just click "More info" and then "Run anyway" to proceed.
 
 ---
 
