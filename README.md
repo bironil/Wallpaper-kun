@@ -91,7 +91,7 @@ AppData/Local/Wallpaper-kun/
 ### First Time Setup
 
 1. **Add Sources:**  
-   - Enter Reddit feeds or Zerochan API endpoints in the app `reddit_urls.txt` / `api_urls.txt`.
+   - Enter Reddit feeds or Zerochan API endpoints in the app UI.
    - You can also use the official website to easily generate Reddit feeds or Zerochan API links: [Wallpaper-kun Website][website]
 2. **Enable Auto-Fetch:**  
    - Toggle auto-fetch for daily updates.
